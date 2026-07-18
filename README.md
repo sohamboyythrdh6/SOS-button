@@ -20,4 +20,8 @@ this is really useful for those teenager studients who don't carry any smart pho
 | Slide Switch | Power ON/OFF control | 1 | $1.00 | Robu.in |
 
 **Total Estimated Cost:** **$42.00 USD**
+
+<img width="490" height="292" alt="Screenshot 2026-07-17 131932" src="https://github.com/user-attachments/assets/693bc677-e46c-4825-92f6-116c773cf391" />
+<img width="557" height="430" alt="Screenshot 2026-07-17 131810" src="https://github.com/user-attachments/assets/d8536f01-bb1c-439f-9f51-fbce6d62b2e6" />
+
                                                                                                       
